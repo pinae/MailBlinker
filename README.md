@@ -2,7 +2,7 @@
 Blink the capslock LED if new mails are on the IMAP-server.
 
 Change `imap_connection.py` to use your credentials for your IMAP-Server. 
-Google users mith 2-factor-auth may have to generate a App-Password for 
+Google users with 2-factor-auth may have to generate a App-Password for 
 this.
 
 Execute the script with root privileges:
